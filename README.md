@@ -14,7 +14,6 @@ Sempre gostei de todo o processo de desenvolvimento de softwares. Gosto do desaf
 
 - SOLID
 - .NET Framework
-- 
 ## 💻 Atualmente estou desenvolvendo
 
 - Sistema para oficinas com C# e .NET com o banco de dados SQLServer
