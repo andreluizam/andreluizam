@@ -12,11 +12,11 @@ Sempre gostei de todo o processo de desenvolvimento de softwares. Gosto do desaf
 
 ## 📚 Atualmente estou aprendendo
 
-- SOLID
-- .NET Framework
+- Xamarin Forms
+  
 ## 💻 Atualmente estou desenvolvendo
 
-- Sistema para oficinas com C# e .NET com o banco de dados SQLServer
+- Sistema empresarial completo
 
 ## 💼 Tecnologias
 
