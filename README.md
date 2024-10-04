@@ -1,5 +1,5 @@
 ### Oi, eu sou o André 😉
-## Desenvolvo principalmente em C# e .NET
+## Desenvolvo principalmente em C#
 
 Sempre gostei de todo o processo de desenvolvimento de softwares. Gosto do desafio de encontrar e solucionar problemas, saber como os resolver é satisfatório para mim.
 
@@ -12,11 +12,11 @@ Sempre gostei de todo o processo de desenvolvimento de softwares. Gosto do desaf
 
 ## 📚 Atualmente estou aprendendo
 
-- Xamarin Forms
+- Xamarin Forms | .NET MAUI | MVVM
   
 ## 💻 Atualmente estou desenvolvendo
 
-- Sistema empresarial completo
+- Aplicativos para publicar na play store
 
 ## 💼 Tecnologias
 
