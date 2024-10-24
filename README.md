@@ -12,7 +12,7 @@ Sempre gostei de todo o processo de desenvolvimento de softwares. Gosto do desaf
 
 ## 📚 Atualmente estou aprendendo
 
-- Xamarin Forms | .NET MAUI | MVVM
+- Kotlin
   
 ## 💻 Atualmente estou desenvolvendo
 
