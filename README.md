@@ -12,11 +12,11 @@ Sempre gostei de todo o processo de desenvolvimento de softwares. Gosto do desaf
 
 ## 📚 Atualmente estou aprendendo
 
-- Kotlin
+- Swift para desenvolvimento nativo iOS
   
 ## 💻 Atualmente estou desenvolvendo
 
-- Aplicativos para publicar na play store
+- Clone do aplicativo uber
 
 ## 💼 Tecnologias
 
